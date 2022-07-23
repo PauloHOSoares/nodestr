@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/7b8cc883-0d2b-405e-ad85-020f579d63ab/microsoft.web/sites/subscriptions/7b8cc883-0d2b-405e-ad85-020f579d63ab/resourceGroups/nodeph_group/providers/Microsoft.Web/sites/nodeph",
+    "appService.deploySubpath": "."
+}
